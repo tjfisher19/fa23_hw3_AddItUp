@@ -2,7 +2,7 @@
 
 Fall 2023 STA 308 HW3 - Solution Set
 
-This repo includes two implementations of the `AddItUp()` function assigned from Homework #3. The description of the function from the assignment is below.
+This repo includes two implementations, (AddItUp_a_solution.R) and (AddItUp_modularized.R) of the `AddItUp()` function assigned from Homework #3. The description of the function from the assignment is below.
 
 ## Directions
 

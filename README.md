@@ -21,6 +21,6 @@ The function must do the following:
 * If the user says yes, the program will ask the user to input a number following the previous bullet point (making sure the entered value is a valid number).
 * The function must return a list() with the following (named) elements:
 
-   + A valued called Total that reports the total (summation) of all the numbers entered.
-   + A value called NumNumbers that reports the number of numbers the user entered. 
-   + A vector called Numbers reporting the numbers the user entered.
+   + A valued called `Total` that reports the total (summation) of all the numbers entered.
+   + A value called `NumNumbers` that reports the number of numbers the user entered. 
+   + A vector called `Numbers` reporting the numbers the user entered.
